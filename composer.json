@@ -6,7 +6,7 @@
         "symfony/console" : "^3.1",
         "symfony/yaml"    : "^3.1",
         "symfony/process" : "^3.1",
-        "phpunit/phpunit" : "^4.6",
+        "phpunit/phpunit" : "^8.5",
         "jolicode/jolinotif": "^1.0"
     },
     "autoload": {
